@@ -1,6 +1,6 @@
-#  E-commerce Order Processing System
+# E-commerce Order Processing System
 
-> A Java console order processing system application, built using MVC design pattern and OOP principles to processing multiple kinds of products. The goal of the application is to give the user an easy to use system that requires just a few inputs to get the product they desire processed.
+> A Java console order processing system application, built using MVC design pattern and OOP principles to process multiple kinds of products. The goal of the application is to give the user an easy-to-use system that requires just a few inputs to get the product they desire processed.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
@@ -37,43 +37,43 @@
 - 🧪 **Testable Architecture**
   - Designed for easy unit testing and expansion with new order types in the future.
 
-
 ## 📸 Screenshots
 
-[Ecommerce ](./screenshots/Ecommerce.png)
+![Ecommerce Screenshot](./screenshots/Ecommerce.png)
 
 ## 🛠️ Installation
 
-
+```bash
 # Clone the repo
-git clone [https://github.com/yourusername/project-name.git](https://github.com/tshepangkagiso/Ecommerce-Order-Processing-Java-Console-System.git)
+git clone https://github.com/tshepangkagiso/Ecommerce-Order-Processing-Java-Console-System.git
 
 # Navigate to the directory
-cd project-name
+cd Ecommerce-Order-Processing-Java-Console-System
 
-# Install dependencies
-Java Virtual Machine 
+# Run the application (assuming a compiled jar or via IDE)
+java -jar YourApp.jar
+````
+
+*Note:* Make sure you have Java Virtual Machine (JVM) installed on your system.
 
 ## 📦 Usage
 
-# Start the app
-Run the console application
-
+Run the console application and follow the on-screen menu prompts to process different types of orders.
 
 ## 🧱 Built With
 
-- [Java](https://www.oracle.com/java/) - Programming language
+* [Java](https://www.oracle.com/java/) - Programming language
 
 ## 🗂️ Project Structure
 
 ```
-Ecommerce Order Processing System/
+Ecommerce-Order-Processing-System/
 ├── idea/
 ├── out/
 ├── screenshots/
 ├── src/
 │   ├── .gitignore
-│   ├── Ecommerce Order Processing System.iml
+│   ├── EcommerceOrderProcessingSystem.iml
 │   ├── Main/               
 │   └── OrderProcessingSystem/
 │       ├── Controllers/
@@ -119,8 +119,12 @@ Contributions are welcome! Please follow these steps:
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 🙋‍♂️ Contact
+
 Project Link: [https://github.com/tshepangkagiso/Ecommerce-Order-Processing-Java-Console-System.git](https://github.com/tshepangkagiso/Ecommerce-Order-Processing-Java-Console-System.git)
 
 ---
 
-> © 2025 Tshepang Kagiso Mashigo 
+> © 2025 Tshepang Kagiso Mashigo
+
+```
+
