@@ -123,4 +123,4 @@ Project Link: [https://github.com/tshepangkagiso/Ecommerce-Order-Processing-Java
 
 ---
 
-> © 2025 Tshepang Kagiso Mashigo – Built with ❤️
+> © 2025 Tshepang Kagiso Mashigo 
